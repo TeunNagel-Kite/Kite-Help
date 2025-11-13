@@ -1,0 +1,20 @@
+{
+    "default": "test",
+    "forumPostChannelId": [
+        "1414333237626540173"
+    ],
+    "forumPostMessage": [
+        "- Consider reading <#1413002564684873728> to improve your question! \n Explain what exactly your issue is. \n - Post your full code, not just a snippet."
+    ],
+    "forumPostTitle": [
+        "Support"
+    ],
+    "forumPostButtons": {
+        "1414333237626540173": [
+            {
+                "label": "Kite Documentation",
+                "url": "https://discord.com/channels/845800518458540083/1413002564684873728"
+            }
+        ]
+        }
+}
